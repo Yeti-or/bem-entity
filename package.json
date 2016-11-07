@@ -27,13 +27,13 @@
     "bem-naming": "1.0.1"
   },
   "devDependencies": {
-    "ava": "0.13.0",
-    "coveralls": "2.11.9",
-    "eslint": "2.5.3",
-    "eslint-config-pedant": "0.1.1",
-    "nyc": "6.1.1",
-    "proxyquire": "1.7.4",
-    "sinon": "1.17.3"
+    "ava": "0.16.0",
+    "coveralls": "2.11.14",
+    "eslint": "3.9.1",
+    "eslint-config-pedant": "0.8.0",
+    "nyc": "8.4.0",
+    "proxyquire": "1.7.10",
+    "sinon": "1.17.6"
   },
   "scripts": {
     "test": "npm run lint && npm run cover",
